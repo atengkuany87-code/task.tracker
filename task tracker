@@ -1,0 +1,13 @@
+tasks = []
+tasks_count= 3
+
+for i in range(tasks_count):
+    tasks = input(f"{i+1}".)
+    tasks.append(task)
+
+print()
+print("Your tasks: ")
+print()
+
+for task in tasks:
+    print(tasks)
